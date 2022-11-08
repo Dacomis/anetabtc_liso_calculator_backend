@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@blockfrost/blockfrost-js": "^5.0.0",
+    "apicache": "^1.6.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
